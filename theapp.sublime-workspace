@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"p	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "models/account.js",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 2296,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/app.js",
+			"settings":
+			{
+				"buffer_size": 702,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 943,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/partials/login.html",
+			"settings":
+			{
+				"buffer_size": 420,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/js/directives.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/js/services.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/js/filters.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/partials/partial2.html",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kim/NewDev/nodejs/theapp/app/js/app.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/index.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/app/index.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/app.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/package.json",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/js/app.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/app/partials/login.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/app/js/controllers.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/js/controllers.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/partials/tork.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/partials/partial1.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/public/partials/login.html",
+		"/C/Users/Kim/NewDev/nodejs/theapp/routes/index.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/routes/user.js",
+		"/C/Users/Kim/NewDev/nodejs/theapp/views/index.jade",
+		"/C/Users/Kim/NewDev/nodejs/theapp/views/layout.jade",
+		"/C/Users/Kim/NewDev/nodejs/myapp/public/css/bootstrap.css",
+		"/C/Users/Kim/NewDev/nodejs/myapp/views/layout.jade",
+		"/C/Users/Kim/NewDev/nodejs/myapp/views/index.jade",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/dev/angular/my-angular/app/index.html",
+		"/C/dev/angular/my-angular/app/js/app.js",
+		"/C/dev/angular/my-angular/scripts/web-server.js",
+		"/C/dev/angular/my-angular/app/css/app.css",
+		"/C/tmp/index.html",
+		"/C/tmp/package.json",
+		"/C/Users/Kim/AppData/Roaming/Sublime Text 2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/tmp/app.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"app",
+			"javascript",
+			"images",
+			"index"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "models/account.js",
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 2296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1392,
+								1392
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								959,
+								959
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/app.js",
+					"settings":
+					{
+						"buffer_size": 702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/index.html",
+					"settings":
+					{
+						"buffer_size": 943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								287,
+								328
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/partials/login.html",
+					"settings":
+					{
+						"buffer_size": 420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}
