@@ -9,16 +9,16 @@ angular.module('myApp.controllers', []).
   .controller('MyCtrl2', [function() {
 
   }])
-	.controller('TorkCtrl', ['$scope', function($scope){
-		$scope.message = 'Yomama!';
+	.controller('HelloCtrl', ['$scope', function($scope){
+		$scope.message = 'Hello!';
 		$scope.widgets = [
 			{'name': 'Toaster', 'desc': 'Makes it toasty'},
-			{name: 'Gun', desc: "doesn't kill people"},
+			{name: 'Huh', desc: "That's what I say!"},
 			{'name': 'Faucet', 'desc': 'drip, drip....'}
 		];
 	}])
 	.controller('LoginCtrl', ['$scope', '$http', function($scope, $http) {
-		$scope.user = { username: "jon tor", password: "yomama" };
+		$scope.user = { username: "Luke Skywalker", password: "onlyhope" };
 		$scope.submit = function() {
 			
 			$http({

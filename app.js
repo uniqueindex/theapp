@@ -47,7 +47,7 @@ passport.deserializeUser(
 
 mongoose.connect("mongodb://localhost/theapp_db");
 
-/*Account.register(new Account({ username: "jon tor"}), "yomama", function(err, account) {
+/*Account.register(new Account({ username: "Luke Skywalker"}), "onlyhope", function(err, account) {
 	console.dir(account);
 });*/
 
@@ -67,9 +67,9 @@ app.use(express.session());
 app.use(passport.initialize());
 app.use(passport.session());
 app.use(app.router);
-// tork
+// changed
 app.use(express.errorHandler());
-// tork
+// changed
 //app.use(require('stylus').middleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
