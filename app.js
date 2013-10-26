@@ -4,8 +4,6 @@
  */
 
 var express = require('express');
-var routes = require('./routes');
-var user = require('./routes/user');
 var http = require('http');
 var path = require('path');
 
@@ -77,18 +75,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 if ('development' == app.get('env')) {
 }
 
-app.post('/login', passport.authenticate('local'), 
-	function(req, res) {
-		//console.dir(req.user);
-		//res.redirect('/users/' + req.user.username);
-		console.log("passport.authenticate success");
-		console.log("IsAuthenticated=" + req.isAuthenticated());
-		res.send(req.user);
-	}
-);
-
-//app.get('/', routes.index);
-app.get('/users', user.list);
+require('./routes')(app);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));

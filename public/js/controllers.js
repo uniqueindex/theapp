@@ -26,7 +26,24 @@ angular.module('myApp.controllers', []).
 			    url: '/login',
 			    data: {username: $scope.user.username, password: $scope.user.password }
 			}).success(function (data, status, headers, config) {
-				console.log('Success');
+				console.log('Login Success');
+				console.log(status);
+				console.dir(data);
+			}).error(function (data, status, headers, config) {
+				console.log('Error')
+			});
+		}
+	}])
+	.controller('RegisterCtrl', ['$scope', '$http', function($scope, $http) {
+		$scope.user = {};
+		$scope.submit = function() {
+			
+			$http({
+			    method: 'POST',
+			    url: '/register',
+			    data: {username: $scope.user.username, password: $scope.user.password }
+			}).success(function (data, status, headers, config) {
+				console.log('Register Success');
 				console.log(status);
 				console.dir(data);
 			}).error(function (data, status, headers, config) {
